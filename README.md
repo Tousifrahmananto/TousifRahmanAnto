@@ -11,7 +11,7 @@ I am a Computer Science and Engineering student residing in Dhaka, Bangladesh. I
 
 ### 🚀 What I'm Currently Up To
 - 🧠 **Researching:** Leading an active thesis project titled *"Toward a Self-Evolving Conversational AI: Integrating Generative NLP with Psychological Modeling."*
-- 💻 **Building:** Refining my MERN stack, Next.js, and Django capabilities while deeply integrating AI tools like the OpenAI API, Groq, and LangChain.
+- 💻 **Building:** Refining my MERN stack, Next.js, and Django capabilities while deeply integrating AI tools like the OpenAI API, Groq, Claude and LangChain.
 - 🌍 **Leading:** Serving as a Global Admissions Committee (GAC) Member for the Millennium Fellowship Program (UNAI & MCN).
 
 ---
