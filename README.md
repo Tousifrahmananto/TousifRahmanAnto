@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3EF4,100:00D4FF&height=220&section=header&text=Tousif%20Rahman%20Anto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20CSE%20@%20BRAC%20University&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3EF4,100:00D4FF&height=220&section=header&text=Tousif%20Rahman%20Anto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20CSE%20@%20BRAC%20University&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Tousifrahmananto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Building+secure%2C+scalable+web+apps;Integrating+LLMs+into+real+products;Turning+complex+logic+into+seamless+UX" alt="Typing SVG" />
@@ -82,6 +82,16 @@ Multi-page, dark/light-themed personal site, actively maintained.
 </td>
 </tr>
 </table>
+
+### 🆕 Recent
+
+**[LMS Platform](https://github.com/Tousifrahmananto/LMS_CPS_ACADEMY)** — Full-featured Learning Management System with role-based access (Admin, Content Manager, Instructor, Student), course/lesson management, enrollment, progress tracking, auto-graded MCQ quizzes, an admin panel, and a blog with a draft/publish workflow.
+
+**Tech:** Next.js (frontend, deployed on Vercel) · Strapi (backend, deployed on Railway)
+
+**[Hospital Billing Management System](https://github.com/Tousifrahmananto/SAAS_PROJECT)** — MERN-based hospital patient-billing platform built across three gated milestones. Covers provider onboarding, staff RBAC, patient/encounter charge capture, appointments, contracts, claims, immutable invoice snapshots, partial payments via SSLCOMMERZ/Bangla QR, refunds, reconciliation, PDF invoices/receipts, and full audit history.
+
+**Tech:** MongoDB · Express · React · Node.js · Render (backend) · Vercel (frontend)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3EF4,100:00D4FF&height=3&width=100%" width="100%"/>
 
